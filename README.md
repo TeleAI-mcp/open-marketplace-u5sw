@@ -1,2 +1,3 @@
-# open-marketplace-u5sw
-Automated issue comment bot repository
+# Open Marketplace U5Sw
+
+Automated issue comment bot repository.
